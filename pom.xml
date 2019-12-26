@@ -6,7 +6,7 @@
 	<groupId>com.aditya.test</groupId>
 	<artifactId>SprintBootTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>SprintBootTest</name>
 	<url>http://maven.apache.org</url>
